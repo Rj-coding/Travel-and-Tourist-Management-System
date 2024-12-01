@@ -8,6 +8,7 @@ This project was developed as a Team project with my friends, showcasing my skil
 ## Dashboard Preview
 Below is a screenshot of the application’s dashboard:
 
+
 ![Dashboard](https://github.com/Rj-coding)
 
 ## Features
