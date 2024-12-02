@@ -9,7 +9,7 @@ This project was developed as a Team project with my friends, showcasing my skil
 Below is a screenshot of the application’s dashboard:
 
 
-![image alt](https://github.com/Rj-coding/Travel-and-Tourist-Management-System/blob/main/Screenshot%20(74).png?raw=true)
+![image alt](https://github.com/Rj-coding/Travel-and-Tourist-Management-System/blob/main/Screenshot%20(77)-imageonline.co-merged.png?raw=true)
 
 ## Features
 
